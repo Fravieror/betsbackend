@@ -1,0 +1,468 @@
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\BEDT.dll.config
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\BEDT.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\BEDT.pdb
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\csc.exe
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\csc.exe.config
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\csc.rsp
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\csi.exe
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\csi.exe.config
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\csi.rsp
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\System.AppContext.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\System.Console.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\System.IO.Compression.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\System.Security.Claims.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\System.ValueTuple.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\vbc.exe
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\vbc.exe.config
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\vbc.rsp
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\VBCSCompiler.exe
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\EntityFramework.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\EntityFramework.SqlServer.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\MySql.Data.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\Newtonsoft.Json.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\System.Net.Http.Formatting.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\System.Web.Http.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\System.Web.Http.WebHost.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\EntityFramework.xml
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\EntityFramework.SqlServer.xml
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\MySql.Data.xml
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\MySql.Data.Entity.EF6.xml
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\Newtonsoft.Json.xml
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\System.Net.Http.Formatting.xml
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\System.Web.Http.xml
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\System.Web.Http.WebHost.xml
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\es\System.Web.Http.resources.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\obj\Debug\BEDT.csprojAssemblyReference.cache
+C:\Users\Javier\Source\repos\BEDT\BEDT\obj\Debug\BEDT.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Source\repos\BEDT\BEDT\obj\Debug\BEDT.csproj.CopyComplete
+C:\Users\Javier\Source\repos\BEDT\BEDT\obj\Debug\BEDT.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\obj\Debug\BEDT.pdb
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\System.Web.Cors.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\System.Web.Http.Cors.dll
+C:\Users\Javier\Source\repos\BEDT\BEDT\bin\System.Web.Http.Cors.xml
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\BEDT.dll.config
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\BEDT.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\BEDT.pdb
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\csc.exe
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\csc.exe.config
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\csc.rsp
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\csi.exe
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\csi.exe.config
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\csi.rsp
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\Microsoft.CSharp.Core.targets
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\Microsoft.Managed.Core.targets
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\System.AppContext.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\System.Collections.Immutable.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\System.Console.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\System.IO.Compression.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\System.IO.FileSystem.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\System.IO.Pipes.AccessControl.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\System.IO.Pipes.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\System.Reflection.Metadata.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\System.Security.AccessControl.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\System.Security.Claims.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\System.Security.Principal.Windows.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\System.ValueTuple.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\System.Xml.ReaderWriter.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\System.Xml.XmlDocument.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\System.Xml.XPath.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\vbc.exe
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\vbc.exe.config
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\vbc.rsp
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\VBCSCompiler.exe
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\roslyn\VBCSCompiler.exe.config
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\EntityFramework.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\EntityFramework.SqlServer.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\MySql.Data.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\MySql.Data.Entity.EF6.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\Newtonsoft.Json.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\System.Net.Http.Formatting.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\System.Web.Cors.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\System.Web.Http.Cors.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\System.Web.Http.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\System.Web.Http.WebHost.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\EntityFramework.xml
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\EntityFramework.SqlServer.xml
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\MySql.Data.xml
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\MySql.Data.Entity.EF6.xml
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\System.Web.Http.Cors.xml
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\Newtonsoft.Json.xml
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\System.Net.Http.Formatting.xml
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\System.Web.Http.xml
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\System.Web.Http.WebHost.xml
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\es\System.Net.Http.Formatting.resources.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\es\System.Web.Http.resources.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\bin\es\System.Web.Http.WebHost.resources.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\obj\Debug\BEDT.csprojAssemblyReference.cache
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\obj\Debug\BEDT.csproj.CoreCompileInputs.cache
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\obj\Debug\BEDT.csproj.CopyComplete
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\obj\Debug\BEDT.dll
+U:\Desarrollo\BEDT 2019-09-09\BEDT\BEDT\obj\Debug\BEDT.pdb
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\BEDT.dll.config
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\BEDT.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\BEDT.pdb
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\csc.exe
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\csc.exe.config
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\csc.rsp
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\csi.exe
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\csi.exe.config
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\csi.rsp
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\System.AppContext.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\System.Console.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\System.IO.Compression.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\System.IO.Pipes.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\System.Security.Claims.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\System.ValueTuple.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\vbc.exe
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\vbc.exe.config
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\vbc.rsp
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\VBCSCompiler.exe
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\EntityFramework.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\EntityFramework.SqlServer.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\MySql.Data.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\MySql.Data.Entity.EF6.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\Newtonsoft.Json.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\System.Net.Http.Formatting.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\System.Web.Cors.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\System.Web.Http.Cors.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\System.Web.Http.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\System.Web.Http.WebHost.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\EntityFramework.xml
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\EntityFramework.SqlServer.xml
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\MySql.Data.xml
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\MySql.Data.Entity.EF6.xml
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\System.Web.Http.Cors.xml
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\Newtonsoft.Json.xml
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\System.Net.Http.Formatting.xml
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\System.Web.Http.xml
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\System.Web.Http.WebHost.xml
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\es\System.Web.Http.resources.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\obj\Debug\BEDT.csprojAssemblyReference.cache
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\obj\Debug\BEDT.csproj.CoreCompileInputs.cache
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\obj\Debug\BEDT.csproj.CopyComplete
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\obj\Debug\BEDT.dll
+C:\Users\fradiaro\Documents\Personal\Desarrollo\Xiomara\2019-09-10\BEDT\BEDT\obj\Debug\BEDT.pdb
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\BEDT.dll.config
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\BEDT.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\BEDT.pdb
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\csc.exe
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\csc.exe.config
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\csc.rsp
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\csi.exe
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\csi.exe.config
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\csi.rsp
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\Microsoft.CSharp.Core.targets
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\Microsoft.Managed.Core.targets
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\System.AppContext.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\System.Collections.Immutable.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\System.Console.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\System.IO.Compression.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\System.IO.FileSystem.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\System.IO.Pipes.AccessControl.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\System.IO.Pipes.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\System.Reflection.Metadata.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\System.Security.AccessControl.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\System.Security.Claims.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\System.Security.Principal.Windows.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\System.ValueTuple.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\System.Xml.ReaderWriter.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\System.Xml.XmlDocument.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\System.Xml.XPath.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\vbc.exe
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\vbc.exe.config
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\vbc.rsp
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\VBCSCompiler.exe
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\roslyn\VBCSCompiler.exe.config
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\EntityFramework.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\EntityFramework.SqlServer.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\MySql.Data.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\MySql.Data.Entity.EF6.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\Newtonsoft.Json.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\System.Net.Http.Formatting.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\System.Web.Cors.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\System.Web.Http.Cors.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\System.Web.Http.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\System.Web.Http.WebHost.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\EntityFramework.xml
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\EntityFramework.SqlServer.xml
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\MySql.Data.xml
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\MySql.Data.Entity.EF6.xml
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\System.Web.Http.Cors.xml
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\Newtonsoft.Json.xml
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\System.Net.Http.Formatting.xml
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\System.Web.Http.xml
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\System.Web.Http.WebHost.xml
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\es\System.Net.Http.Formatting.resources.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\es\System.Web.Http.resources.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\bin\es\System.Web.Http.WebHost.resources.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\obj\Debug\BEDT.csprojAssemblyReference.cache
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\obj\Debug\BEDT.csproj.CoreCompileInputs.cache
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\obj\Debug\BEDT.csproj.CopyComplete
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\obj\Debug\BEDT.dll
+U:\Desarrollo\BEDT 2019-09-10\BEDT\BEDT\obj\Debug\BEDT.pdb
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\BEDT.dll.config
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\BEDT.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\BEDT.pdb
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\csc.exe
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\csc.exe.config
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\csc.rsp
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\csi.exe
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\csi.exe.config
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\csi.rsp
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\System.AppContext.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\System.Console.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\System.IO.Compression.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\System.IO.Pipes.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\System.Security.Claims.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\System.ValueTuple.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\vbc.exe
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\vbc.exe.config
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\vbc.rsp
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\VBCSCompiler.exe
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\EntityFramework.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\EntityFramework.SqlServer.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\MySql.Data.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\MySql.Data.Entity.EF6.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\Newtonsoft.Json.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\System.Net.Http.Formatting.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\System.Web.Cors.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\System.Web.Http.Cors.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\System.Web.Http.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\System.Web.Http.WebHost.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\EntityFramework.xml
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\EntityFramework.SqlServer.xml
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\MySql.Data.xml
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\MySql.Data.Entity.EF6.xml
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\System.Web.Http.Cors.xml
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\Newtonsoft.Json.xml
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\System.Net.Http.Formatting.xml
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\System.Web.Http.xml
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\System.Web.Http.WebHost.xml
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\es\System.Web.Http.resources.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\obj\Debug\BEDT.csproj.CoreCompileInputs.cache
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\obj\Debug\BEDT.csproj.CopyComplete
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\obj\Debug\BEDT.dll
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\obj\Debug\BEDT.pdb
+C:\Users\equipo\Downloads\wetransfer-8a2e85\BEDT\BEDT\obj\Debug\BEDT.csprojAssemblyReference.cache
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\BEDT.dll.config
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\BEDT.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\BEDT.pdb
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\csc.exe
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\csc.exe.config
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\csc.rsp
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\csi.exe
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\csi.exe.config
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\csi.rsp
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\Microsoft.CSharp.Core.targets
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\Microsoft.Managed.Core.targets
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\System.AppContext.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\System.Collections.Immutable.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\System.Console.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\System.IO.Compression.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\System.IO.FileSystem.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\System.IO.Pipes.AccessControl.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\System.IO.Pipes.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\System.Reflection.Metadata.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\System.Security.AccessControl.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\System.Security.Claims.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\System.Security.Principal.Windows.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\System.ValueTuple.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\System.Xml.ReaderWriter.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\System.Xml.XmlDocument.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\System.Xml.XPath.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\vbc.exe
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\vbc.exe.config
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\vbc.rsp
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\VBCSCompiler.exe
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\roslyn\VBCSCompiler.exe.config
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\EntityFramework.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\EntityFramework.SqlServer.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\MySql.Data.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\MySql.Data.Entity.EF6.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\Newtonsoft.Json.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\System.Net.Http.Formatting.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\System.Web.Cors.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\System.Web.Http.Cors.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\System.Web.Http.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\System.Web.Http.WebHost.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\EntityFramework.xml
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\EntityFramework.SqlServer.xml
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\MySql.Data.xml
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\MySql.Data.Entity.EF6.xml
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\System.Web.Http.Cors.xml
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\Newtonsoft.Json.xml
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\System.Net.Http.Formatting.xml
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\System.Web.Http.xml
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\System.Web.Http.WebHost.xml
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\es\System.Net.Http.Formatting.resources.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\es\System.Web.Http.resources.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\bin\es\System.Web.Http.WebHost.resources.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\obj\Debug\BEDT.csprojAssemblyReference.cache
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\obj\Debug\BEDT.csproj.CoreCompileInputs.cache
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\obj\Debug\BEDT.csproj.CopyComplete
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\obj\Debug\BEDT.dll
+U:\Desarrollo\BETS Xiomara\2019-09-16\BEDT\BEDT\obj\Debug\BEDT.pdb
